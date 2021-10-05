@@ -1,0 +1,32 @@
+h1 {
+    color: white;
+    background: tomato;
+}
+nav {
+    background: rgb(67, 75, 74);
+}
+nav .example-1 {
+    color:white ;
+    font-size: 20px;
+}
+
+nav .example-2 {
+    color: turquoise;
+    font-size: 20px;
+}
+nav .example-3 {
+    color: thistle;
+    font-size: 20px;
+}
+nav .example-4 {
+    color: yellowgreen;
+    font-size: 20px;
+}
+nav .example-5 {
+    color: tomato;
+    font-size: 20px;
+}
+nav .example-6 {
+    color: wheat;
+    font-size: 20px;
+}
